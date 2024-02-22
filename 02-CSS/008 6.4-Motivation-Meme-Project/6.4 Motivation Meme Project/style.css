@@ -1,0 +1,26 @@
+div{
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    background-color: black;
+    /*margin-left: 15%;*/
+}
+h1{
+    color: white;
+    align-content:center ;
+    margin-left: 40%;
+}
+h2{
+    color: #FAF8F1;
+    align-content: center;
+    margin-left: 30%;
+}
+img{
+    border: solid white 5px;
+    align-content: center;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+html{
+    background-color: black;
+}
